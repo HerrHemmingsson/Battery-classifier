@@ -24,7 +24,7 @@ The dataset only contains roughly 300 observations, which means that the models 
 - Sklearn
 - Pandas
 - Numpy
-- Champarse (https://pypi.org/project/chemparse/)
+- Chemparse (https://pypi.org/project/chemparse/)
 - Xgboost
 - Matplotlib
 - Seaborn
